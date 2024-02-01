@@ -1,0 +1,27 @@
+caption{
+    font-size: 200%;
+    color: brown;
+    font-family: Times New Roman;
+}
+table, td, th{
+    border: 1px solid purple;
+    border-collapse: collapse;
+    background-position:right;
+}
+th{
+    background-color: orange;
+    color: white;
+
+}
+.rowcolor{
+    background-color: white;
+}
+.textalign{
+    text-align: center;
+}
+.rowsize{
+    width: 90%;
+}
+body{
+    background-image: url("https://img5.thuthuatphanmem.vn/uploads/2021/12/19/hinh-nen-mau-cam-don-gian-full-hd_043519764.jpg")
+}
